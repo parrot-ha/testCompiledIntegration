@@ -1,3 +1,5 @@
+package com.parrotha.tce.app
+
 definition(
         name: "My First SmartApp TCE",
         namespace: "mygithubusername",

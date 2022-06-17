@@ -2,7 +2,7 @@ id: 351478ae-3301-41fa-abd0-1dfd41acbd13
 name: Test Compiled Extension
 minHubVersion: 0.2.2
 author: Parrot HA
-version: 0.0.2
+version: 0.0.4
 licenseFile: TBD
 releaseNotes: TBD
 description: Testing compiled device handlers and automation apps
